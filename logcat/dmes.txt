@@ -1,0 +1,3 @@
+^C
+C:\Users\Anzil>adb shell dmesg > dmesg_output.txt
+dmesg: klogctl: Permission denied
